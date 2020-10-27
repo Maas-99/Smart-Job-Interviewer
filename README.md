@@ -6,3 +6,4 @@
 -Firas - 6/10/2020 - I have updated section 1.3 and 1.5<br />
 -Abdulrahman - 07/10/2020 - I have updated section 2.3 and 2.4<br />
 -Abdullah - 2020\10\7 - I have updated section 1.4 <br />
+Mansour 27/10/2020 - I have uploaded the phase 1 on this repositry <br />
