@@ -8,3 +8,4 @@
 -Abdullah - 2020\10\7 - I have updated section 1.4 <br />
 Mansour 27/10/2020 - I have uploaded the phase 1 on this repositry <br />
 4/11/2020 we have started working on the phase #2 of the project <br />
+Mansour - 5/11/2020 - I have just finished working on the system-level diagram and class diagram section and uploaded it on this repository<br />
