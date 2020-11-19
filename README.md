@@ -12,5 +12,5 @@ Mansour - 5/11/2020 - I have just finished working on the system-level diagram a
 yasser - 10/11/2020 - I have just finished sequense diagram <br />
 Firas - 7/11/2020 - I have done the UI<br />
 -Abdullah- 11/11/2020 - I gave some of the description on the class diagram and the UI snapshots <br />
--Abdulrahman- 11/11/2020 - I gave some of the description on the class diagram and the UI snapshots 
+-Abdulrahman- 11/11/2020 - I gave some of the description on the class diagram and the UI snapshots <br />
 Mansour - 14/11/2020 - I have just uploaded the finel version of phase 2 on this repository
